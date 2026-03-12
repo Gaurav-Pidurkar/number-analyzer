@@ -1,0 +1,4 @@
+#ignore java compiled files
+EvenOdd.class
+NumberType.class
+VowelCheck.class
